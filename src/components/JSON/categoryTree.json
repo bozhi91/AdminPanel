@@ -1,0 +1,15 @@
+[{
+	"parentCategory": [{
+		"name": "Category1",
+		"childCategory": [{
+			"name": "Subcat1",
+			"adverts": [{
+				"name": "advert1"
+			}, {
+				"name": "advert2"
+			}, {
+				"name": "advert3"
+			}]
+		}]
+	}]
+}]

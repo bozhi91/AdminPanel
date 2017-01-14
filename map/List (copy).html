@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="demo">
+<h1>The XMLHttpRequest Object</h1>
+<button type="button" onclick="loadJSON()">Change Content</button>
+</div>
+
+ <script type="text/javascript" src="p5/p5.js"></script>
+<script>
+
+ function loadJSON() {   
+	  var url = 'http://wservice.viabicing.cat/v2/stations';
+	  weather = loadJSON(url,readData,"json");
+ }
+function readData(data) {
+ 	alert(data);
+}
+
+
+</script>
+
+</body>
+</html>

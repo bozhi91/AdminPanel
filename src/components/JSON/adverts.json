@@ -1,0 +1,7 @@
+[
+    {"title":"Advert Title1", "role": "premium"},
+    {"title":"Advert Title2", "role": "standard"},
+    {"title":"Advert Title3", "role": "standard"},
+    {"title":"Advert Title4", "role": "premium"},
+    {"title":"Advert Title5", "role": "premium"}
+]
